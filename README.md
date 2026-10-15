@@ -8,9 +8,10 @@ Enquanto o programa estiver aberto, ele envia ao headset um tom de 20 Hz em volu
 
 ## Uso
 
-1. Conecte o adaptador USB do headset.
-2. Abra o `NaoDesligarZeus.exe`. Ele roda sem janela, com um ícone de fone vermelho na bandeja do sistema, perto do relógio.
-3. Para parar, clique com o botão direito no ícone e escolha **Sair**.
+1. Baixe o [`NaoDesligarZeus.exe`](https://github.com/ErickCoutinho/n-o_desligar_zeus/releases/latest/download/NaoDesligarZeus.exe) da [última versão](https://github.com/ErickCoutinho/n-o_desligar_zeus/releases/latest).
+2. Conecte o adaptador USB do headset.
+3. Abra o `NaoDesligarZeus.exe`. Ele roda sem janela, com um ícone de fone vermelho na bandeja do sistema, perto do relógio.
+4. Para parar, clique com o botão direito no ícone e escolha **Sair**.
 
 Passe o mouse sobre o ícone para ver o horário do último sinal enviado.
 
