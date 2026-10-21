@@ -22,10 +22,10 @@ APP_NAME = "Não desligar Zeus"
 DEVICE_NAME_FRAGMENT = "H510-PRO"
 PULSE_INTERVAL_SECONDS = 4 * 60 + 50
 PULSE_DURATION_SECONDS = 1.0
-TONE_FREQUENCY_HZ = 20.0
-# Aproximadamente -60 dBFS: alto o suficiente para não ser silêncio digital,
-# baixo o suficiente para não ser ouvido.
-TONE_AMPLITUDE = 0.001
+TONE_FREQUENCY_HZ = 50.0
+# Aproximadamente -40 dBFS. Um tom mais fraco e mais grave (-60 dBFS a 20 Hz)
+# é tratado como silêncio pelo headset, que desliga mesmo recebendo os pulsos.
+TONE_AMPLITUDE = 0.01
 INT16_MAX = 32767
 MESSAGE_BOX_ICON_ERROR = 0x10
 
