@@ -6,6 +6,6 @@ A cada 1 minuto, envia ao headset um tom inaudível de 1 segundo.
 
 ## Uso
 
-1. Baixe o [`NaoDesligarZeus.exe`](https://github.com/ErickCoutinho/n-o_desligar_zeus/releases/latest/download/NaoDesligarZeus.exe).
+1. Baixe o [`NaoDesligarZeus.exe`](https://github.com/ErickCoutinho/nao_desligar_zeus/releases/latest/download/NaoDesligarZeus.exe).
 2. Conecte o adaptador USB do headset e abra o programa.
 3. Para encerrar, clique com o botão direito no ícone de fone na bandeja do sistema e escolha **Sair**.
