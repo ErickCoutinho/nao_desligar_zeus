@@ -20,7 +20,7 @@ from PIL import Image, ImageDraw
 
 APP_NAME = "Não desligar Zeus"
 DEVICE_NAME_FRAGMENT = "H510-PRO"
-PULSE_INTERVAL_SECONDS = 4 * 60 + 50
+PULSE_INTERVAL_SECONDS = 60
 PULSE_DURATION_SECONDS = 1.0
 TONE_FREQUENCY_HZ = 50.0
 # Aproximadamente -40 dBFS. Um tom mais fraco e mais grave (-60 dBFS a 20 Hz)

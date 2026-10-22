@@ -2,7 +2,7 @@
 
 Impede que o headset Redragon Zeus Pro (H510-PRO) desligue sozinho por inatividade no Windows.
 
-A cada 4min50s, envia ao headset um tom inaudível de 1 segundo.
+A cada 1 minuto, envia ao headset um tom inaudível de 1 segundo.
 
 ## Uso
 
